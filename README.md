@@ -1,0 +1,1 @@
+# Dinamik-Sinav-Takvimi-ve-Oturma-Plani-Olusturma-Sistemi
