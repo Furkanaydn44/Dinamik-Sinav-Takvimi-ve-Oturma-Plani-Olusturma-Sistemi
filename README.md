@@ -53,21 +53,21 @@ pip install pyqt5 pandas openpyxl fpdf pulp reportlab
 * Optimizasyon: PuLP / Heuristic Algorithms
 
 ### 💻 Kurulum ve Kullanım
-#  1. Projeyi İndirin: Bu depoyu (repository) yerel makinenize klonlayın.
+## 1. Projeyi İndirin: Bu depoyu (repository) yerel makinenize klonlayın.
 
-#  2. Uygulamayı Başlatın: Terminal veya IDE üzerinden main.py dosyasını çalıştırın:
+## 2. Uygulamayı Başlatın: Terminal veya IDE üzerinden main.py dosyasını çalıştırın:
 
 ```bash
 
 python main.py
 ```
-#  3. Giriş Yapın: İlk kurulumda varsayılan Admin hesabı ile giriş yapın:
+##  3. Giriş Yapın: İlk kurulumda varsayılan Admin hesabı ile giriş yapın:
 
 * E-posta: admin@example.com
 
 * Şifre: admin
 
-#  4.İş Akışı:
+##  4.İş Akışı:
 
 * Adım 1: "Derslik Girişi" sekmesinden sınav yapılacak salonları tanımlayın.
 
